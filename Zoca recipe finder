@@ -1,0 +1,17 @@
+Recipe Finder
+
+Recipe App Project Description:- The Recipe Book is a web application that allows users to search for and view recipes. It utilizes the MealDB API to fetch recipe data based on user input. The application features a search box to look up recipes, a dynamic recipe display area, and a popup to view detailed recipe information, including ingredients and instructions.
+
+Features Search Recipes: Users can search for recipes by entering a meal name into the search box. Recipe Display: Recipes are displayed in a grid layout with images, names, and additional details. Recipe Details: Clicking on a recipe opens a popup with detailed information, including ingredients and cooking instructions. Responsive Design: The application is designed to be responsive and works well on both desktop and mobile devices.
+
+Technologies Used HTML: Markup language used for the structure of the web pages. CSS: Stylesheet language used for styling the application. JavaScript: Programming language used for interactive features and fetching data from the API. MealDB API: External API used to retrieve recipe data.
+
+Project link (http://priyasharma.me/Zoca-Cafe/)
+
+Source code (https://github.com/priyasandral23/Zoca-Cafe)
+
+Usage Enter a meal name into the search box and click the "Search" button. Browse the displayed recipes. Click on the "View Recipe" button to see detailed information in a popup. Close the popup by clicking the "Close" button.
+
+Code Overview index.html: Contains the HTML structure of the web application. style.css: Contains the styles for the application, including layout and design. script.js: Contains JavaScript code for fetching recipe data, displaying recipes, and handling user interactions.
+
+Contact For any questions or feedback, please contact me at priyasandral23@navgurukul.org.
